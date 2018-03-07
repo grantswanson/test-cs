@@ -3,9 +3,8 @@
   "description": "View info on one time use pre paid cards.",
   "version": "1.0.0",
   "private": true,
-  "dependencies": {}
   "dependencies": {
 	"jquery": "1.11.1",
-	"jquery-ui: "1.10.4"
+	"jquery-ui": "1.10.4"
    }
 }
